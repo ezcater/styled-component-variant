@@ -1,0 +1,14 @@
+{
+  "name": "styled-component-variant",
+  "version": "1.0.0",
+  "description": "Varies styles based on props",
+  "main": "index.js",
+  "author": "CraigCav",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
