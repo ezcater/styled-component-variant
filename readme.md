@@ -30,6 +30,12 @@ const use = variant('use', {
   tertiary,
 });
 
-export default MyButton = styled('button')(use);
+const MyButton = styled('button')(use);
+
+// render a blue button
+<MyButton use="primary">Click me</MyButton>
+
+// render an orange button
+<MyButton use="secondary">Click me</MyButton>
 
 ```
