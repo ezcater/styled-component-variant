@@ -2,13 +2,16 @@
   "name": "styled-component-variant",
   "version": "1.0.0",
   "description": "Varies styles based on props",
-  "main": "index.js",
+  "main": "dist/styled-component-variant.js",
   "author": "CraigCav",
   "license": "MIT",
   "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch",
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "microbundle": "^0.6.0"
   }
 }
