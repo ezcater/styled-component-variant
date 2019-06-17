@@ -11,7 +11,6 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^23.6.0",
-    "microbundle": "^0.7.0"
+    "jest": "^24.8.0"
   }
 }
