@@ -1,3 +1,6 @@
+# This project has been deprecated and will no longer be maintained.
+
+
 # styled-component-variant
 
 A tiny helper to enable you to vary your React components styles based on a prop value.
